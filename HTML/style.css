@@ -18,8 +18,9 @@ p{
 	padding-top: 150px;
 	padding-bottom: 150px;
 	color: white;
-	background: url("185472365_7ae7f2303b_o.jpg");
-	background-size: 1300px;
+	/**background: url("185472365_7ae7f2303b_b.jpg"); **/
+	background: url("http://lorempixel.com/1400/800/nature");
+
 }
 .feature{
 	font-weight: 300;
