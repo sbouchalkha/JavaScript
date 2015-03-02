@@ -1,0 +1,46 @@
+body{
+	margin: : 0px;
+	color: rgb(20,20,20);
+	background: rgb(245,245,245);
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	color: #23AAFD;
+	font-family: 'Lobster', cursive;
+}
+p{
+	font-size: 16px;
+	line-height: 20px;
+}
+#myHeader{
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	color: white;
+	background: url("185472365_7ae7f2303b_o.jpg");
+	background-size: 1300px;
+}
+.feature{
+	font-weight: 300;
+	padding: 40px;
+}
+
+.feature img{
+	padding: 20px;
+	border: 2px solid black;
+	border-radius: 50%;
+}
+
+#myfooter{
+	padding: 30px;
+	background:  rgb(30,30,30);
+	color: lightgrey;
+}
+#myfooter a {
+	color: lightgrey;
+	font-size: 25px;
+}
+#myfooter a:hover {
+	color: white;
+}
